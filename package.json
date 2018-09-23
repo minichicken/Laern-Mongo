@@ -1,0 +1,23 @@
+{
+  "name": "learnmongo",
+  "version": "1.0.0",
+  "description": "laern mongodb",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minichicken/Laern-Mongo.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "JaehoLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minichicken/Laern-Mongo/issues"
+  },
+  "homepage": "https://github.com/minichicken/Laern-Mongo#readme"
+}
